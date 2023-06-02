@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&multiline=true&width=760&height=83&lines=Hello%2C+my+name+is+Cyrus+Behroozi;I+specialize+in+high-performance+ML+inference)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=750&multiline=true&width=760&height=83&lines=Hello%2C+my+name+is+Cyrus+Behroozi;I+specialize+in+high-performance+ML+inference)](https://git.io/typing-svg)
 
 
 ![](https://komarev.com/ghpvc/?username=cyrusbehr)
